@@ -1,0 +1,2 @@
+# wordpress_contents_table
+WordPressの投稿に目次を生成するPHP関数
